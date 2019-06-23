@@ -14,4 +14,4 @@ CelebFaces Attributes Dataset (CelebA) is a large-scale face attributes dataset 
 ## Project
 The project is broken down into a series of tasks from loading in data to defining and training adversarial networks. At the end of the notebook, you'll be able to visualize the results of your trained Generator to see how it performs; your generated samples should look like fairly realistic faces with small amounts of noise.
 
-The final project can be viewed [here](http://htmlpreview.github.io/?https://github.com/Porubova/Face-Generationl/master/dlnd_face_generation.html).
+The final project can be viewed [here](http://htmlpreview.github.io/?https://github.com/Porubova/Face-Generation/master/dlnd_face_generation.html).
